@@ -1,0 +1,44 @@
+# Data / outputs
+data/
+prediction/
+test_prediction/
+
+# Model checkpoints
+ckpts/
+
+# Figures / generated visuals
+figure/
+
+# Python cache
+__pycache__/
+utils/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary / experiment scripts
+dataset_test.py
+fps_exp.py
+fps_exp_1.py
+worker.py
+temp.py
+model_compare.py
+predict_old.py
+
+# Shell scripts
+*.sh
+
+# Test folders
+test/
+
+# Videos
+*.mp4
+*.mov
+
+# macOS
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
