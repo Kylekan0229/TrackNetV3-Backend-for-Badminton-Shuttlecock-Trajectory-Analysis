@@ -208,3 +208,7 @@ python predict_dual_modified.py \
 ```bash
 --device cpu
 ```
+
+#Reference
+
+TrackNetV3: https://github.com/qaz812345/TrackNetV3
